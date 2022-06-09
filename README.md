@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **Game Development, Unreal Engine 5, C++.**
 
-- 📫 How to reach me **rahulvallecha17@gmail.com**
+- 📫 How to reach me
+- **Email** ->  **rahulvallecha17@gmail.com**
+- **Discord** -> CRUSHER#9447
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
