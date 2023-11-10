@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a gameplay programmer @Gamitronics.<br>👯 I’m looking to collaborate on unreal engine projects.<br>🌱 I’m currently learning blender.<br>💬 Ask me about unreal engine and C++.<br>🔗Discord username - crusher17
+🔭 I’m currently working as a gameplay programmer Gamitronics.<br>👯 I’m looking to collaborate on unreal engine projects.<br>🌱 I’m currently learning blender.<br>💬 Ask me about unreal engine and C++.<br>🔗Discord username - crusher17
 
 
 ## 🌐 Socials:
