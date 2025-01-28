@@ -4,7 +4,7 @@ Hello, I'm Rahul Vallecha, a Computer Science graduate with a solid foundation a
 I'm passionate about creating immersive gaming experiences and thrive in collaborative environments. As a gameplay programmer, I've honed my skills in designing and implementing game mechanics, ensuring seamless player interactions. I'm excited about the prospect of contributing to innovative projects and continuing to grow in the dynamic field of game development.
 
 Open to networking and exploring potential collaborations, I look forward to connecting with professionals who share a similar passion. Let's build something great together! Feel free to reach out.
-🔭 I’m currently working as a gameplay programmer at Gamitronics.<br>👯 I’m looking to collaborate on unreal engine projects.<br>🌱 I’m currently learning blender.<br>💬 Ask me about unreal engine and C++.<br>🔗Discord username - crusher17
+💬 Ask me about unreal engine and C++.<br>🔗Discord username - crusher17
 
 
 ## 🌐 Socials:
